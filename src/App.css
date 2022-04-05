@@ -24,6 +24,12 @@
   color: white;
 }
 
+.Text-border {
+  border: thin solid #32a1ce;
+  border-width: 1px 1px 1px 1px;
+
+}
+
 .App-link {
   color: #61dafb;
 }

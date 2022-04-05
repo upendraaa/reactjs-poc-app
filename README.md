@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Dependency
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+
+### SpreadSheetUI
+npm install react-spreadsheet
+ link: [https://iddan.github.io/react-spreadsheet/docs/api/]
+### Export XLSx
+ npm install xlsx file-saver axios --save-dev
+
+ ### Date
+ npm i date-fns
+ npm i @mui/lab
+
+ ### Networ
+ npm install axios
+
+ ### Bootstrap
+ npm install react-bootstrap bootstrap@5.1.3
+
+
+
+
